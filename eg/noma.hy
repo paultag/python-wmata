@@ -1,4 +1,4 @@
-(import [wmta.api [station/prediction]])
+(import [wmata.rail [station/prediction]])
 
 
 (print (station/prediction "B35"))
